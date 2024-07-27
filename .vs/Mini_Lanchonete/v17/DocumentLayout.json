@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Viny Galdino\\Desktop\\codes\\csharp\\Mini_Lanchonete\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBC60BB-5FAA-4DF4-8DE0-8CAB8868EF85}|Mini_Lanchonete\\Mini_Lanchonete.csproj|c:\\users\\viny galdino\\desktop\\codes\\csharp\\mini_lanchonete\\mini_lanchonete\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBC60BB-5FAA-4DF4-8DE0-8CAB8868EF85}|Mini_Lanchonete\\Mini_Lanchonete.csproj|solutionrelative:mini_lanchonete\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Viny Galdino\\Desktop\\codes\\csharp\\Mini_Lanchonete\\Mini_Lanchonete\\Program.cs",
+              "RelativeDocumentMoniker": "Mini_Lanchonete\\Program.cs",
+              "ToolTip": "C:\\Users\\Viny Galdino\\Desktop\\codes\\csharp\\Mini_Lanchonete\\Mini_Lanchonete\\Program.cs",
+              "RelativeToolTip": "Mini_Lanchonete\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:37:41.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

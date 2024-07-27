@@ -1,0 +1,14 @@
+C:\Users\Viny Galdino\Desktop\codes\csharp\Mini_Lanchonete\Mini_Lanchonete\bin\Debug\net8.0\Mini_Lanchonete.exe
+C:\Users\Viny Galdino\Desktop\codes\csharp\Mini_Lanchonete\Mini_Lanchonete\bin\Debug\net8.0\Mini_Lanchonete.deps.json
+C:\Users\Viny Galdino\Desktop\codes\csharp\Mini_Lanchonete\Mini_Lanchonete\bin\Debug\net8.0\Mini_Lanchonete.runtimeconfig.json
+C:\Users\Viny Galdino\Desktop\codes\csharp\Mini_Lanchonete\Mini_Lanchonete\bin\Debug\net8.0\Mini_Lanchonete.dll
+C:\Users\Viny Galdino\Desktop\codes\csharp\Mini_Lanchonete\Mini_Lanchonete\bin\Debug\net8.0\Mini_Lanchonete.pdb
+C:\Users\Viny Galdino\Desktop\codes\csharp\Mini_Lanchonete\Mini_Lanchonete\obj\Debug\net8.0\Mini_Lanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viny Galdino\Desktop\codes\csharp\Mini_Lanchonete\Mini_Lanchonete\obj\Debug\net8.0\Mini_Lanchonete.AssemblyInfoInputs.cache
+C:\Users\Viny Galdino\Desktop\codes\csharp\Mini_Lanchonete\Mini_Lanchonete\obj\Debug\net8.0\Mini_Lanchonete.AssemblyInfo.cs
+C:\Users\Viny Galdino\Desktop\codes\csharp\Mini_Lanchonete\Mini_Lanchonete\obj\Debug\net8.0\Mini_Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\Viny Galdino\Desktop\codes\csharp\Mini_Lanchonete\Mini_Lanchonete\obj\Debug\net8.0\Mini_Lanchonete.dll
+C:\Users\Viny Galdino\Desktop\codes\csharp\Mini_Lanchonete\Mini_Lanchonete\obj\Debug\net8.0\refint\Mini_Lanchonete.dll
+C:\Users\Viny Galdino\Desktop\codes\csharp\Mini_Lanchonete\Mini_Lanchonete\obj\Debug\net8.0\Mini_Lanchonete.pdb
+C:\Users\Viny Galdino\Desktop\codes\csharp\Mini_Lanchonete\Mini_Lanchonete\obj\Debug\net8.0\Mini_Lanchonete.genruntimeconfig.cache
+C:\Users\Viny Galdino\Desktop\codes\csharp\Mini_Lanchonete\Mini_Lanchonete\obj\Debug\net8.0\ref\Mini_Lanchonete.dll
